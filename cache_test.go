@@ -1,4 +1,4 @@
-package ocache
+package ocached
 
 import (
 	"reflect"
